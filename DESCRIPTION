@@ -1,7 +1,7 @@
 Type: Package
 Package: hdflex
 Title: High-Dimensional Aggregate Density Forecasts
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
     person("Sven", "Lehmann", , "sven.lehmann@uni-rostock.de", role = c("aut", "cre", "cph")),
     person("Philipp", "Adämmer", , "philipp.adaemmer@uni-greifswald.de", role = "aut"),
@@ -26,9 +26,9 @@ Encoding: UTF-8
 LazyData: true
 NeedsCompilation: yes
 RoxygenNote: 7.2.3
-Packaged: 2023-06-12 11:50:07 UTC; slehmann
+Packaged: 2023-10-31 13:33:45 UTC; slehmann
 Author: Sven Lehmann [aut, cre, cph],
   Philipp Adämmer [aut],
   Rainer Schüssler [aut]
 Repository: CRAN
-Date/Publication: 2023-06-13 08:00:05 UTC
+Date/Publication: 2023-10-31 13:50:02 UTC
